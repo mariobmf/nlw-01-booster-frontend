@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
+    <div>
       <h1>Initial Commit</h1>
     </div>
   );
-}
+};
 
 export default App;
