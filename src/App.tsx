@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
+import Routes from './routes';
+
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Initial Commit</h1>
+      <Routes />
     </div>
   );
 };
