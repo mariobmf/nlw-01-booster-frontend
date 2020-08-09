@@ -26,7 +26,7 @@ $ git clone https://github.com/DanielObara/NLW-1.0
 # Entrar no Repositório
 $ cd NLW-1.0/frontent
 
-# Instalas as Dependências
+# Instalar as Dependências
 $ yarn install
 
 # Executar
