@@ -21,10 +21,10 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 ```bash
 # Clonar o Repositório
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/mariobmf/nlw-01-booster-frontend.git
 
 # Entrar no Repositório
-$ cd /frontent
+$ cd /nlw-01-booster-frontend
 
 # Instalar as Dependências
 $ yarn install
